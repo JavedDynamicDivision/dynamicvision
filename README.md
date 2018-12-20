@@ -1,10 +1,6 @@
-# dynamicvision
-
-<!doctype html>
-
 
 <html>
-  <title>Dynaimc Vision</title>
+
   
   <head>
   </head>
